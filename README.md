@@ -1,24 +1,11 @@
-# WEN FAN-PhD Reference Paper Management 
+# Websockets Setup
 
-_**Keep updating.**_
+_**Private using.**_
 
-<!-- TO DO:
-- Add links
-- Search for more papers
-- Better categories, Better curation
-- Add 2020/2021 works for skill assessment
-- Elaborate on surgical phase/action recognition
-- Elaborate on surgical instrument/scene segmentation
-- last big 4
-- two pie charts (venue / Topic) -->
 
-## Contents
+## boost library installation
 
-[Learn from Observation](#observation)
-
-[Explainable Artificial Intelligence](#XAI)
-
-[Information](#information)
+https://blog.csdn.net/wzwpy99/article/details/122542585
 
 ## <span id = "observation"> **Learn from Observation** </span>
 
