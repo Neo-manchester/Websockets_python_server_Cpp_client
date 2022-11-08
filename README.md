@@ -35,6 +35,25 @@ use 'apt search websockets' to find out the specific name of library!!!!
 reference blog: https://blog.csdn.net/chile19/article/details/80520704
 
 
+## Linux Multi-PC Communicate
+
+Python Server, Python Client
+
+reference blog: https://stackoverflow.com/questions/45944199/python-websockets-cant-connect-over-internet
+
+Python Server: 
+
+start_server = websockets.serve(handel, host = None, port = 8081)
+
+(set host as 'None' to listen all possible IP address!!!!!!!!!)
+
+Python Client:
+
+async with websockets.connect('ws://172.31.13.230:8081') as websocket
+
+(set the uri as server's IP address, such as 172.31.13.230)
+
+
 
 <!-- 
 Wen Fan -->
