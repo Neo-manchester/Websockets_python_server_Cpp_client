@@ -28,6 +28,14 @@ Make sure that truly adding the library path both for x86 and x64!!!
     2) "library catalogue" = ".../boots_1_7xx_0/stage/lib"
 
 
+## Linux Install Websockets
+
+use 'apt search websockets' to find out the specific name of library!!!!
+
+reference blog: https://blog.csdn.net/chile19/article/details/80520704
+
+
+
 <!-- 
 Wen Fan -->
 
