@@ -5,6 +5,8 @@ _**Private using.**_
 
 ## boost library installation
 
+Reference link: https://blog.csdn.net/jianghuan0122/article/details/123528907
+
 Instruction source: https://blog.csdn.net/wzwpy99/article/details/122542585
 
 (1) download boost libraries
